@@ -19,6 +19,7 @@ namespace SquaresMoving
 		//Global Variables
 		Timer clock = new Timer();
 		
+		Random rnd = new Random();
 		int n = 0;
 		static Panel sqr1 = new Panel();
 		static Panel sqr2 = new Panel();
@@ -82,6 +83,10 @@ namespace SquaresMoving
 			}
 			if(OOB.Top < 0){
 				OOB.Top = 0;
+			}
+			if(OOB.Left < ClientSize.Width - OOB.Width){
+				OOB.Top= 0;
+				OOB.Left= rnd.Next(0, ClientSize.Width - OOB.Width);
 			}
 		}
 		void MainFormLoad(object sender, EventArgs e)
