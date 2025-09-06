@@ -1,0 +1,8 @@
+E:\SharpDevelop\SquaresMoving\SquaresMoving\obj\Debug\SquaresMoving.csprojResolveAssemblyReference.cache
+E:\SharpDevelop\SquaresMoving\SquaresMoving\obj\Debug\SquaresMoving.MainForm.resources
+E:\SharpDevelop\SquaresMoving\SquaresMoving\obj\Debug\SquaresMoving.csproj.GenerateResource.Cache
+E:\SharpDevelop\SquaresMoving\SquaresMoving\bin\Debug\SquaresMoving.exe.config
+E:\SharpDevelop\SquaresMoving\SquaresMoving\bin\Debug\SquaresMoving.exe
+E:\SharpDevelop\SquaresMoving\SquaresMoving\bin\Debug\SquaresMoving.pdb
+E:\SharpDevelop\SquaresMoving\SquaresMoving\obj\Debug\SquaresMoving.exe
+E:\SharpDevelop\SquaresMoving\SquaresMoving\obj\Debug\SquaresMoving.pdb
